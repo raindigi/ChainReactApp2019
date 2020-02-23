@@ -48,7 +48,7 @@
     "graphql-tag": "^2.10.1",
     "i18n-js": "^3.3.0",
     "lottie-react-native": "2.6.1",
-    "mobx": "^4.9.4",
+    "mobx": "^4.15.4",
     "mobx-react": "^5.0.0",
     "mobx-state-tree": "^3.10.1",
     "prop-types": "^15.7.2",
