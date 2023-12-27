@@ -32,7 +32,7 @@
     "@mapbox/react-native-mapbox-gl": "https://github.com/nitaliano/react-native-mapbox-gl#master",
     "@react-native-community/async-storage": "^1.5.0",
     "@react-native-community/netinfo": "^3.2.1",
-    "apisauce": "^1.0.3",
+    "apisauce": "^3.0.1",
     "apollo-boost": "^0.4.3",
     "apollo-client": "^2.6.3",
     "appcenter": "1.13.0",
