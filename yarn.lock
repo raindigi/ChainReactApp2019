@@ -6927,6 +6927,11 @@ ramda@^0.26.1:
   version "0.26.1"
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
 
+ramda@^0.28.0:
+  version "0.28.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.28.0.tgz#acd785690100337e8b063cab3470019be427cc97"
+  integrity sha512-9QnLuG/kPVgWvMQ4aODhsBUFKOUmnbUnsSXACv+NCQZcHbeb+v8Lodp8OVxtRULN1/xOyYLLaL6npE6dMq5QTA==
+
 ramdasauce@^2.1.0:
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/ramdasauce/-/ramdasauce-2.1.3.tgz#acb45ecc7e4fc4d6f39e19989b4a16dff383e9c2"
@@ -7180,12 +7185,12 @@ reactotron-core-client@2.8.3, reactotron-core-client@^2.8.3:
   resolved "https://registry.yarnpkg.com/reactotron-core-client/-/reactotron-core-client-2.8.3.tgz#e8ce782f21ba3c04eb3c678297edceac283857ff"
   integrity sha512-TAidkKZvU2KyCSkRyorLm0RZ/8KnYMIWsawyMsXcSNm2aEOku/5RbBh/7yPNZHU1X7199UMs4T1TAedlK6/w6A==
 
-reactotron-mst@^3.1.3:
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/reactotron-mst/-/reactotron-mst-3.1.3.tgz#110401af04be4e1d8d9185e73f1c9e54e393f204"
-  integrity sha512-mYdg7Ajp0immBrUHifhrFV2bwFEcGu/8mOGOhlbYJ2jDCFB5ZmZ3jY8LuZUnvwpL3zmLZUVfJFeousEZP1XJ5g==
+reactotron-mst@^3.1.7:
+  version "3.1.7"
+  resolved "https://registry.yarnpkg.com/reactotron-mst/-/reactotron-mst-3.1.7.tgz#2bde936bd11d30674c915bbed6c90617e17993cf"
+  integrity sha512-pfdSwp9kTgJile8maPuc8KAy1rWBMpE4lmllhiRbp/7Hf61LAX1mpfQ1dHDY0Lkc+l907mOKSpblfGpR5DiFpg==
   dependencies:
-    ramda "^0.25.0"
+    ramda "^0.28.0"
 
 reactotron-react-native@^3.1.2:
   version "3.6.4"
